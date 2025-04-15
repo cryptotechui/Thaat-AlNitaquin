@@ -60,6 +60,7 @@ h1{
     }
     #A{
         height: 150px;
+        font-size: 30px;
     }
     #B{
         display: flex;
